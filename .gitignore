@@ -1,2 +1,4 @@
 .idea/*
-.doc/*
+*.doc
+README.md
+build/side.txt
